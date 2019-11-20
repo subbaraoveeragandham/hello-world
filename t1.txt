@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 92FD-5B19
+
+ Directory of C:\Users\SUBBA RAO\Desktop\Git_project
+
+20-11-2019  12:19    <DIR>          .
+20-11-2019  12:19    <DIR>          ..
+20-11-2019  12:19                 0 t1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  558,317,727,744 bytes free
